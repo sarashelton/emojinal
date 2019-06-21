@@ -13,8 +13,8 @@ class ViewController: UIViewController {
     let customMessage = [
         "monkey" : ["you all good bro", "you seem great my dude","don't worry bout a thing"],
         "no-eyes monkey" : ["stop looking my friend", "do you need glasses?", "stop, get some help"],
-        "no-ears monkey" : ["stop eavesdropping dude", "are you that excited to see me??", "you look weird my dude"],
-        "no-mouth monkey" : ["and i oop-", "stop talking bob", "stop with that monkey business"]
+        "no-ears monkey" : ["stop eavesdropping dude", "calm down", "you look weird my dude"],
+        "no-mouth monkey" : ["and i oop-", "stop talking my dude", "stop with that monkey business"]
     ]
     override func viewDidLoad() {
         super.viewDidLoad()
