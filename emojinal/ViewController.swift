@@ -12,9 +12,9 @@ class ViewController: UIViewController {
     let emojis = ["🐵": "monkey", "🙈": "no-eyes monkey", "🙉": "no-ears monkey", "🙊": "no-mouth monkey"]
     let customMessage = [
         "monkey" : ["you all good bro", "you seem great my dude","don't worry bout a thing"],
-        "no-eyes monkey" : ["stop looking my friend", "do you need glasses?", "stop, get some help"],
-        "no-ears monkey" : ["stop eavesdropping dude", "calm down", "you look weird my dude"],
-        "no-mouth monkey" : ["and i oop-", "stop talking my dude", "stop with that monkey business"]
+        "no-eyes monkey" : ["stop looking my friend", "ahahahaha", "stop, get some help"],
+        "no-ears monkey" : ["stop eavesdropping dude", "calm down", "you look weird"],
+        "no-mouth monkey" : ["and i oop-", "stop talking my friend", "stop with that monkey business"]
     ]
     override func viewDidLoad() {
         super.viewDidLoad()
